@@ -1,0 +1,17 @@
+.sign{
+    text-align: center;
+    font-style: bold;
+}
+
+.whole{
+    background-color: rgba(207, 202, 192, 0.788);
+    width: 50%;
+    margin: auto;
+    box-shadow: 5px 4px 6px 0px;
+    
+}
+
+#name{
+    width: 50%;
+
+}
